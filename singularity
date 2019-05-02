@@ -1,2 +1,2 @@
 Bootstrap:docker  
-From: nvcr.io/nvidia/tensorflow:18.12-py3
+From: eric716/tensorflow-19.03-py3:v1
